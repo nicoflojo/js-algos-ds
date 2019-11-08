@@ -1,4 +1,5 @@
-// Bubble Sort Implemneted in JS
+// Bubble Sort Implemneted in ES6
+
 import Sort from '../Sort';
 
 export default class BubbleSort extends Sort {
